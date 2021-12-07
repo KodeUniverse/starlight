@@ -15,3 +15,7 @@ Mouse - Look
 LMB - Fire
 
 leftShift - Boost
+
+# Installation
+
+Clone this Github repository to your local machine and run with Unity Hub.
