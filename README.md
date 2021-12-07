@@ -7,7 +7,11 @@ Starlight 3D is a third-person spaceship flight sim set in deep outer space, whe
 # Controls
 
 WASD - Movement
+
 Q, E - Roll
+
 Mouse - Look
+
 LMB - Fire
+
 leftShift - Boost
