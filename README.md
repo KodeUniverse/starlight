@@ -18,4 +18,6 @@ leftShift - Boost
 
 # Installation
 
-Clone this Github repository to your local machine and run with Unity Hub.
+Clone this Github repository to your local machine and open in the Unity Editor. Use "Build and Run" in Unity to create an executable file to play the game.
+
+
